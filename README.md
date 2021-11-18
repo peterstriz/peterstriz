@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Peter Stríž
+- 🏫 Currently studying CS @ FIIT STU
+- 🏐 Active volleyball player for VKP Bratislava
